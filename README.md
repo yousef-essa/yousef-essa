@@ -12,6 +12,7 @@ Java & Kotlin
 - [Guava](https://github.com/google/guava) & [Caffeine](https://github.com/ben-manes/caffeine).
 - [Guice](https://github.com/google/guice).
 - [Spring](https://spring.io/) (used tiny bit).
+- [JDA](https://github.com/DV8FromTheWorld/JDA).
 
 CSS & HTML & JavaScript & TypeScript
 - [NodeJS](https://nodejs.org).
