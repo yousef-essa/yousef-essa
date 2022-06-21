@@ -3,7 +3,8 @@ Howdy, stranger! I see you lurking around. Let me tell you a little summary abou
 - I'm a 18 year old, male. I currently reside in Egypt, Giza to be specific.
 - I got roughly 3 years worth of self-taught development experience, specifically in the Java language.
 - I begin by making server-side (multiplayer) plugins in the end of 2019 for a well-known game, called Minecraft - with the [Spigot API](https://www.spigotmc.org/wiki/about-spigot/).
-- I'm planning to become a software developer.
+- I'm planning to become a software developer, and then work myself up to software architectural level, eventually.
+- I'm currently working on {1=[SwiftMessage](https://github.com/yousef-essa/SwiftMessage)], 2=[Packet-System](https://github.com/yousef-essa/packet-system)}.
 
 ### Technologies:  
 Java & Kotlin
