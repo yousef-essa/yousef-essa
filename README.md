@@ -1,12 +1,13 @@
-Howdy, stranger! I see you lurking around. Let me tell you a little summary about me while you're present.
+Howdy, stranger! I see you lurking around. Let me tell you a little summary about me while you're here.
 
 - I'm an 18-year-old male. I currently reside in Egypt, Gizo.
 - I got roughly three years' worth of self-taught development experience - specifically in the Java language.
-- I'm a Software Developer. I plan to become a Software Engineer and then possibly a Software Architect.
+- I'm a Software Developer. I plan to become a Software Engineer.
 - I begin by making server-side (multiplayer) plugins at the end of 2019 for a well-known game called Minecraft - with the [Spigot API](https://www.spigotmc.org/wiki/about-spigot/).
 - I'm currently working on {1=[SwiftMessage](https://github.com/yousef-essa/SwiftMessage)], 2=[Packet-System](https://github.com/yousef-essa/packet-system)}.
+- My dream is to __mainly__ move aboard, with my family, and live a peaceful & adventurous life style. 
 
-### Technologies:  
+### Technologies
 Java & Kotlin
 - [Maven](https://maven.apache.org/) & [Gradle](https://gradle.org/) & [Gradle DSL](https://docs.gradle.org/current/dsl/index.html).
 - [JUnit5](https://junit.org/junit5/).
@@ -23,8 +24,8 @@ CSS & HTML & JavaScript & TypeScript
 C#
 - [Unity](https://unity.com).
 
-Other:
+Other
 - [Git](https://git-scm.com/).
 - [GitHub](https://github.com).
 
-I'm open to internships/job opportunities; email me at `yousef.essa.p@gmail.com` for inquiries - thank you! I don't check my email often. I apologize in advance for any delayed responses.  
+I'm open to internships/job opportunities (_+relocation_); email me at `yousef.essa.p@gmail.com` for inquiries - thank you! I don't check my email often. I apologize in advance for any delayed responses. If it's the right job for me, I won't disappoint - just give me a chance please.
