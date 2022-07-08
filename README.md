@@ -28,4 +28,4 @@ Other
 - [Git](https://git-scm.com/).
 - [GitHub](https://github.com).
 
-I'm open to internships/job opportunities (_+relocation_); email me at `yousef.essa.p@gmail.com` for inquiries - thank you! I don't check my email often. I apologize in advance for any delayed responses. If it's the right job for me, I won't disappoint - just give me a chance please.
+I'm open to internships/job opportunities (_+relocation_); email me at `yousef.essa.p@gmail.com` for inquiries - thank you! I don't check my email often. I apologize in advance for any delayed responses.
