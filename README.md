@@ -5,7 +5,6 @@ Howdy, stranger! I see you lurking around. Let me tell you a little summary abou
 - I'm a Software Developer. I plan to become a Software Engineer.
 - I begin by making server-side (multiplayer) plugins at the end of 2019 for a well-known game called Minecraft - with the [Spigot API](https://www.spigotmc.org/wiki/about-spigot/).
 - I'm currently working on {1=[SwiftMessage](https://github.com/yousef-essa/SwiftMessage)], 2=[Packet-System](https://github.com/yousef-essa/packet-system)}.
-- My dream is to __mainly__ move aboard, with my family, and live a peaceful & adventurous life style. 
 
 ### Technologies
 Java & Kotlin
@@ -16,7 +15,7 @@ Java & Kotlin
 - [Spring](https://spring.io/) (used tiny bit).
 - [JDA](https://github.com/DV8FromTheWorld/JDA).
 
-CSS & HTML & JavaScript & TypeScript
+JavaScript & TypeScript
 - [NodeJS](https://nodejs.org).
 - [ReactJS](https://reactjs.org) & [NextJS](https://nextjs.org).
 - [TailwindCSS](https://tailwindcss.com).
